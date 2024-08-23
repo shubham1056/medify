@@ -33,4 +33,4 @@ ReactJS
 Swiper
 Node.js
 Contact
-For any questions or feedback, please contact shubhampatil1056u@gmail.com
+For any questions or feedback, please contact shubhampatil1056@gmail.com
